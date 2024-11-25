@@ -35,9 +35,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Full Course  :
 [https://www.youtube.com/watch?v=gBJgEfigKLc&list=PLazvcyckcBwgxtohJFrQw8uwpFUrsOUcb](https://www.youtube.com/watch?v=UqegTYn2aKE&list=PLazvcyckcBwitbcbYveMdXlw8mqoBDbTT&index=1)
 
-## Code
-[https://github.com/walidabazo/Product-API](https://github.com/walidabazo/Product-API)
-
 
 ## Development server
 
